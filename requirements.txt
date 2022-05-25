@@ -11,6 +11,6 @@ Markdown==3.2.1
 markdown2==2.3.8
 mysqlclient==1.4.6
 Pillow==7.0.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytz==2019.3
 sqlparse==0.3.1
